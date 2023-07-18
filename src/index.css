@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:wght@300;400;700;900&display=swap');
+
+.mode-btn{
+    @apply flex p-[3px] items-center justify-center p-[8px] bg-transparent;
+}
+.container{
+    @apply max-w-2xl  mx-auto px-[10px];
+}
+
+.input-container{
+    @apply w-auto rounded-[20px] px-[20px] flex items-center bg-gray-100
+}
+
+.input{
+    @apply py-[24px] w-full bg-transparent outline-0 text-[18px] dark:text-black
+}
