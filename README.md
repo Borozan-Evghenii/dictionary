@@ -5,8 +5,8 @@ This application combines the utility of a traditional dictionary with the advan
 Used Stack: 
 <table>
   <tr>
-    <th>React</th>
-    <th>Tailwind</th>
-    <th>SWR</th>
+    <th>🤓 React</th>
+    <th>🧐 Tailwind</th>
+    <th>📎 SWR</th>
   </tr>
 </table>
